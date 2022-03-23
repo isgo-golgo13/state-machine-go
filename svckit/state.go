@@ -1,7 +1,6 @@
 package svckit
 
 import (
-	"errors"
 	"fmt"
 	"strconv"
 
